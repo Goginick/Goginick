@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Goginick
 - 👀 I’m interested in Web development and Smart Contracts
 - 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on Dapps 
+- 💞️ I’m looking to collaborate on Dapps built on Svelte
 - 📫 How to reach me TG: @Goginnick
 
 <!---
